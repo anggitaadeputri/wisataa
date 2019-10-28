@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">wisata</string>
+    <string name="title_darat" />
+    <string name="title_laut" />
+    <string name="selamat_datang_di_halaman_wisata_darat">Selamat datang di halaman Wisata Darat</string>
+    <string name="selamat_datang_di_halaman_wisata_laut">Selamat datang di halaman Wisata Laut</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="nama">nama</string>
+
+    <string-array name="laut_name">
+        <item>Curug Lawe</item>
+        <item>Rawa Pening</item>
+        <item>Watu Gunung</item>
+    </string-array>
+
+    <string-array name="darat_name">
+        <item>Ayana Gedung Songo</item>
+        <item>Banaran Cofee</item>
+        <item>Kampung Pelangi</item>
+        <item>Kebun Teh Medini</item>
+        <item>Vihara Pagoda</item>
+        <item>Klenteng Sam Poo Kong</item>
+        <item>Umbul Sidomukti</item>
+    </string-array>
+
+    <array name="laut_image">
+        <item>@drawable/curuglawe</item>
+        <item>@drawable/rawapening</item>
+        <item>@drawable/watugunung</item>
+    </array>
+
+    <array name="darat_image">
+        <item>@drawable/ayana</item>
+        <item>@drawable/banaran</item>
+        <item>@drawable/kampungpelangi</item>
+        <item>@drawable/medini</item>
+        <item>@drawable/pagoda</item>
+        <item>@drawable/sampokong</item>
+        <item>@drawable/umbul</item>
+    </array>
+</resources>

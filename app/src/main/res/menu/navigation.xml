@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_laut"
+        android:icon="@drawable/ic_laut"
+        android:title="@string/title_laut" />
+
+    <item
+        android:id="@+id/navigation_darat"
+        android:icon="@drawable/ic_darat"
+        android:title="@string/title_darat" />
+
+</menu>

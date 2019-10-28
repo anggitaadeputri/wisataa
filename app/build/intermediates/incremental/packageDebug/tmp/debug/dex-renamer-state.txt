@@ -1,0 +1,4 @@
+#Sat Oct 26 15:55:12 ICT 2019
+base.0=C\:\\Users\\USER\\AndroidStudioProjects\\wisata\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
